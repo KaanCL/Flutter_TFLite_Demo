@@ -29,8 +29,7 @@ This project demonstrates the implementation of a CNN (Convolutional Neural Netw
 
 1. Clone the repository
 2. Run `flutter pub get`
-3. Place your model in `assets/models/WasteClassification_model.tflite`
-4. Run the app
+3. Run the app
 
 ## Dependencies
 
